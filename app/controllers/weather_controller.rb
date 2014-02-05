@@ -13,5 +13,3 @@ class WeatherController < ApplicationController
   end
 
 end
-  class PagesController < ApplicationController
-  end
